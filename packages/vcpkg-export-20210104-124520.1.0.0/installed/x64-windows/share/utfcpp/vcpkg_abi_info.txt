@@ -1,0 +1,9 @@
+CONTROL 2233a0bdde0bfa99536db46bda04acddcc4828c2
+cmake 3.18.2
+features core
+portfile.cmake 548d3a71f7c7e895faaece7403d7879561be66c1
+post_build_checks 2
+powershell 7.0.3
+triplet 3eab5c64d9cf628fc0aec277fde66dbdc69b8516-a1c0eabb0c5177b6a8fb97a58ae398880c47b352-a5a52d3ca7ad38a4f7b764d75df11399cb9f06b3
+vcpkg_from_git 4834edbcec7eed8d12c6b1ad3c25af63d5fa6586
+vcpkg_from_github 4624dffdf2b8d85ffdfde0850369fa96abdf0bb8

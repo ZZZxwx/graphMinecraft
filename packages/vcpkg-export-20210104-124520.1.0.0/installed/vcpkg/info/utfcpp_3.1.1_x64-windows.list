@@ -1,0 +1,12 @@
+x64-windows/
+x64-windows/include/
+x64-windows/include/utf8.h
+x64-windows/include/utf8/
+x64-windows/include/utf8/checked.h
+x64-windows/include/utf8/core.h
+x64-windows/include/utf8/cpp11.h
+x64-windows/include/utf8/unchecked.h
+x64-windows/share/
+x64-windows/share/utfcpp/
+x64-windows/share/utfcpp/copyright
+x64-windows/share/utfcpp/vcpkg_abi_info.txt
